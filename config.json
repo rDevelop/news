@@ -1,0 +1,8 @@
+{
+    "country" : "us",
+    "language" : "en",
+    "apiUrl" : "https://newsapi.org",
+    "apiVersion" : "V2",
+    "initialPageSize" : "25",
+    "pageSize" : "20"
+}
